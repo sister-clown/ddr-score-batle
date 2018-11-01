@@ -1,4 +1,4 @@
-package com.ddr.matching;
+package demo;
 
 
 import org.jsoup.Connection;
@@ -13,7 +13,7 @@ import java.util.Map;
 import java.util.TreeMap;
 import java.util.stream.Collectors;
 
-public class Scraping {
+public class Scraping2 {
     static String cookie = "";
     static String targetUrl = "https://p.eagate.573.jp/game/ddr/ddra/p/playdata/music_recent.html";
 
